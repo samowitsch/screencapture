@@ -1,0 +1,1 @@
+ScreenCapture is a little tool written in AppleScriptObjC.
